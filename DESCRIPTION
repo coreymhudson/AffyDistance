@@ -1,0 +1,12 @@
+Package: AffyDistance
+Type: Package
+Title: Affymetrix helper functions
+Version: 1.0
+Date: 2012-05-17
+Author: Corey M. Hudson
+Maintainer: Corey M. Hudson <coreymhudson@gmail.com>
+Description: Computes the distance between affy parts of affy arrays.
+License: LGPL >= 2.0
+Depends: limma, gcrma, MASS, gamlss, stats4
+LazyLoad: yes
+Packaged: 2012-05-17 20:38:11 UTC; coreyhudson

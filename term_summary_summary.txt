@@ -1,0 +1,280 @@
+Breast 1	V 260	E	553	p<2.2e-16
+	GO:0006350~transcription	108
+	GO:0051252~regulation of RNA metabolic process	107
+	GO:0010628~positive regulation of gene expression	53
+	GO:0031327~negative regulation of cellular biosynthetic process	49
+	GO:0007049~cell cycle	47
+	GO:0042981~regulation of apoptosis	35
+	GO:0051276~chromosome organization	29
+	GO:0004879~ligand-dependent nuclear receptor activity	12
+	GO:0003707~steroid hormone receptor activity	12
+	GO:0016570~histone modification	10
+	GO:0030522~intracellular receptor-mediated signaling pathway	10
+	GO:0035257~nuclear hormone receptor binding	10
+	GO:0008289~lipid binding	6
+Breast	2	V 160	E	460	p<2.2e-16
+	GO:0045449~regulation of transcription	142
+	GO:0007166~cell surface receptor linked signal transduction	87
+	GO:0006796~phosphate metabolic process	75
+	GO:0032555~purine ribonucleotide binding	74
+	GO:0001882~nucleoside binding	71
+	GO:0005524~ATP binding	70
+	GO:0031328~positive regulation of cellular biosynthetic process	67
+	GO:0016310~phosphorylation	67
+	GO:0043067~regulation of programmed cell death	59
+	GO:0004672~protein kinase activity	59
+	GO:0007049~cell cycle	55
+	hsa05200:Pathways in cancer	49
+	GO:0022402~cell cycle process	40
+	hsa04510:Focal adhesion	26
+	hsa04012:ErbB signaling pathway	25
+	GO:0051336~regulation of hydrolase activity	24
+	hsa04722:Neurotrophin signaling pathway	23
+	hsa04660:T cell receptor signaling pathway	21
+	hsa04062:Chemokine signaling pathway	20
+	hsa04910:Insulin signaling pathway	20
+	GO:0000165~MAPKKK cascade	19
+	hsa04630:Jak-STAT signaling pathway	17
+	hsa04620:Toll-like receptor signaling pathway	15
+	GO:0018108~peptidyl-tyrosine phosphorylation	13
+	hsa04666:Fc gamma R-mediated phagocytosis	13
+	hsa04664:Fc epsilon RI signaling pathway	13
+	hsa04370:VEGF signaling pathway	13
+	GO:0005070~SH3/SH2 adaptor activity	10
+	hsa04150:mTOR signaling pathway	7
+Breast 3	V 157	E	797	p<2.2e-16
+	GO:0030528~transcription regulator activity	256
+	GO:0007166~cell surface receptor linked signal transduction	100
+	GO:0006796~phosphate metabolic process	88
+	GO:0005524~ATP binding	88
+	GO:0043549~regulation of kinase activity	86
+	GO:0043067~regulation of programmed cell death	75
+	hsa05200:Pathways in cancer	55
+	hsa04510:Focal adhesion	28
+	hsa04910:Insulin signaling pathway	22
+	hsa04062:Chemokine signaling pathway	21
+	hsa04660:T cell receptor signaling pathway	21
+	GO:0000165~MAPKKK cascade	21
+	hsa04630:Jak-STAT signaling pathway	17
+	hsa04620:Toll-like receptor signaling pathway	17
+	hsa04666:Fc gamma R-mediated phagocytosis	14
+	hsa04370:VEGF signaling pathway	14
+	hsa04664:Fc epsilon RI signaling pathway	13
+	hsa04150:mTOR signaling pathway	8
+
+Colorectal	1	V	428	E	974	p<2.2e-16
+	GO:0006350~transcription	118
+	GO:0007049~cell cycle	65
+	GO:0009890~negative regulation of biosynthetic process	58
+	GO:0006259~DNA metabolic process	53
+	GO:0022402~cell cycle process	47
+	GO:0051276~chromosome organization	43
+	GO:0006974~response to DNA damage stimulus	38
+	GO:0015031~protein transport	34
+	GO:0051427~hormone receptor binding	17
+	GO:0051170~nuclear import	14
+	GO:0043623~cellular protein complex assembly	11
+	GO:0016573~histone acetylation	9
+	GO:0016407~acetyltransferase activity	8
+	GO:0006607~NLS-bearing substrate import into nucleus	5
+	GO:0006915~apoptosis	86
+
+Colorectal	2	V	302	E	437	p<2.2e-16
+	GO:0045449~regulation of transcription	152
+	GO:0003677~DNA binding	146
+	GO:0005524~ATP binding	93
+	GO:0007049~cell cycle	68
+	GO:0033554~cellular response to stress	53
+	GO:0030518~steroid hormone receptor signaling pathway	17
+	GO:0031960~response to corticosteroid stimulus	13
+	GO:0004112~cyclic-nucleotide phosphodiesterase activity	12
+	GO:0004114~3',5'-cyclic-nucleotide phosphodiesterase activity	12
+	GO:0032868~response to insulin stimulus	10
+Colorectal	3	V	214	E	906	p<2.2e-16
+	GO:0051252~regulation of RNA metabolic process	270
+	GO:0045449~regulation of transcription	173
+	GO:0006350~transcription	131
+	GO:0005524~ATP binding	113
+	GO:0010033~response to organic substance	79
+	GO:0033554~cellular response to stress	59
+	GO:0009719~response to endogenous stimulus	49
+	GO:0016071~mRNA metabolic process	48
+	GO:0008380~RNA splicing	44
+	GO:0006281~DNA repair	35
+	GO:0032870~cellular response to hormone stimulus	18
+	GO:0035257~nuclear hormone receptor binding	17
+	GO:0000082~G1/S transition of mitotic cell cycle	15
+	GO:0004112~cyclic-nucleotide phosphodiesterase activity	12
+	GO:0004114~3',5'-cyclic-nucleotide phosphodiesterase activity	12
+	GO:0047555~3',5'-cyclic-GMP phosphodiesterase activity	4
+	GO:0004115~3',5'-cyclic-AMP phosphodiesterase activity	4
+	
+Gastric	1	V	327	E	620	p<2.2e-16
+	GO:0051252~regulation of RNA metabolic process	214
+	GO:0045449~regulation of transcription	149
+	GO:0009891~positive regulation of biosynthetic process	60
+	GO:0007049~cell cycle	57
+	GO:0051172~negative regulation of nitrogen compound metabolic process	45
+	GO:0033554~cellular response to stress	42
+	GO:0006974~response to DNA damage stimulus	34
+	GO:0009792~embryonic development ending in birth or egg hatching	31
+	GO:0002520~immune system development	25
+	GO:0030097~hemopoiesis	23
+	GO:0007389~pattern specification process	21
+	GO:0001701~in utero embryonic development	18
+	GO:0030099~myeloid cell differentiation	11
+	GO:0002521~leukocyte differentiation	10
+	GO:0030098~lymphocyte differentiation	8
+Gastric 2	V	173	E	286	p<2.2e-16
+	GO:0030528~transcription regulator activity	250
+	GO:0032553~ribonucleotide binding	90
+	GO:0005524~ATP binding	80
+	GO:0030554~adenyl nucleotide binding	80
+	GO:0007049~cell cycle	67
+	GO:0016310~phosphorylation	67
+	GO:0042981~regulation of apoptosis	59
+	GO:0003712~transcription cofactor activity	54
+	GO:0019899~enzyme binding	52
+	GO:0033554~cellular response to stress	51
+	GO:0004674~protein serine/threonine kinase activity	48
+Gastric 3	V	142	E	169	p<2.2e-16
+	GO:0030528~transcription regulator activity	258
+	GO:0032553~ribonucleotide binding	109
+	GO:0005524~ATP binding	95
+	GO:0006796~phosphate metabolic process	86
+	GO:0016310~phosphorylation	76
+	GO:0007049~cell cycle	70
+	GO:0004672~protein kinase activity	61
+	GO:0004674~protein serine/threonine kinase activity	50
+	GO:0009792~embryonic development ending in birth or egg hatching	35
+
+Lung 1	V	613	E	1380	p<2.2e-16
+	GO:0006350~transcription	300
+	GO:0000166~nucleotide binding	252
+	GO:0005524~ATP binding	195
+	GO:0006796~phosphate metabolic process	178
+	GO:0016310~phosphorylation	153
+	GO:0007049~cell cycle	137
+	GO:0010941~regulation of cell death	128
+	GO:0004674~protein serine/threonine kinase activity	108
+	GO:0000165~MAPKKK cascade	40
+	GO:0000280~nuclear division	32
+Lung 2	V	420	E	707	p<2.2e-16
+	GO:0045449~regulation of transcription	385
+	GO:0042981~regulation of apoptosis	332
+	GO:0001882~nucleoside binding	244
+	GO:0005524~ATP binding	233
+	GO:0006796~phosphate metabolic process	220
+	GO:0007049~cell cycle	160
+	GO:0004672~protein kinase activity	155
+	GO:0001944~vasculature development	66
+	GO:0000165~MAPKKK cascade	57
+	GO:0048285~organelle fission	41
+Lung 3	V	344	E	480	p<2.2e-16
+	GO:0045449~regulation of transcription	432
+	GO:0005524~ATP binding	262
+	GO:0006796~phosphate metabolic process	235
+	GO:0007049~cell cycle	189
+	GO:0004674~protein serine/threonine kinase activity	122
+	GO:0006917~induction of apoptosis	69
+	GO:0001944~vasculature development	67
+	GO:0000165~MAPKKK cascade	60
+
+Oral 1	V	310	E	646	p<2.2e-16
+	GO:0045449~regulation of transcription	488
+	GO:0001882~nucleoside binding	347
+	GO:0005524~ATP binding	335
+	GO:0016310~phosphorylation	244
+	GO:0007049~cell cycle	225
+	GO:0004672~protein kinase activity	204
+	GO:0008219~cell death	174
+	GO:0033554~cellular response to stress	152
+	GO:0009725~response to hormone stimulus	108
+	GO:0000278~mitotic cell cycle	106
+	GO:0000165~MAPKKK cascade	69
+Oral 2	V	209	E	351	p<2.2e-16
+	GO:0006350~transcription	385
+	GO:0005524~ATP binding	348
+	GO:0006796~phosphate metabolic process	295
+	GO:0007049~cell cycle	228
+	GO:0042981~regulation of apoptosis	217
+	GO:0004672~protein kinase activity	205
+	GO:0008219~cell death	174
+	GO:0051174~regulation of phosphorus metabolic process	158
+	GO:0004674~protein serine/threonine kinase activity	147
+	GO:0006259~DNA metabolic process	129
+	GO:0000165~MAPKKK cascade	69
+Oral 3	V	121	E	563	p<2.2e-16
+	GO:0000166~nucleotide binding	470
+	GO:0006350~transcription	386
+	GO:0005524~ATP binding	365
+	GO:0016310~phosphorylation	257
+	GO:0007049~cell cycle	229
+	GO:0043067~regulation of programmed cell death	223
+	GO:0004672~protein kinase activity	209
+	GO:0010628~positive regulation of gene expression	177
+	GO:0009719~response to endogenous stimulus	133
+	GO:0000278~mitotic cell cycle	108
+	GO:0048545~response to steroid hormone stimulus	71
+	GO:0000165~MAPKKK cascade	70
+	GO:0048285~organelle fission	54
+	GO:0007067~mitosis	53
+
+Prostate 1	V	405	E	1059	p<2.2e-16
+	GO:0006350~transcription	73
+	GO:0043067~regulation of programmed cell death	50
+	GO:0030182~neuron differentiation	32
+	GO:0007389~pattern specification process	29
+	GO:0000902~cell morphogenesis	29
+	hsa04510:Focal adhesion	27
+	GO:0001944~vasculature development	27
+	GO:0043009~chordate embryonic development	27
+	GO:0003002~regionalization	22
+	GO:0007517~muscle organ development	21
+	GO:0032990~cell part morphogenesis	18
+	GO:0060537~muscle tissue development	18
+	GO:0009952~anterior/posterior pattern formation	17
+	GO:0008289~lipid binding	17
+	hsa04810:Regulation of actin cytoskeleton	15
+	GO:0031589~cell-substrate adhesion	15
+	GO:0007409~axonogenesis	14
+	GO:0046332~SMAD binding	13
+	GO:0001525~angiogenesis	12
+	GO:0007519~skeletal muscle tissue development	10
+	GO:0001701~in utero embryonic development	10
+	GO:0001756~somitogenesis	8
+	GO:0005114~type II transforming growth factor beta receptor binding	4
+Prostate 2	V	352	E	512	p<2.2e-16
+	GO:0006350~transcription	117
+	GO:0051254~positive regulation of RNA metabolic process	54
+	GO:0042802~identical protein binding	51
+	GO:0032989~cellular component morphogenesis	40
+	GO:0030182~neuron differentiation	39
+	GO:0000902~cell morphogenesis	37
+	GO:0001944~vasculature development	29
+	GO:0007167~enzyme linked receptor protein signaling pathway	28
+	GO:0042803~protein homodimerization activity	26
+	GO:0032990~cell part morphogenesis	24
+	GO:0003002~regionalization	24
+	GO:0060537~muscle tissue development	19
+	GO:0007178~transmembrane receptor protein serine/threonine kinase signaling pathway	19
+	GO:0007409~axonogenesis	18
+	GO:0003707~steroid hormone receptor activity	16
+	GO:0046332~SMAD binding	14
+	GO:0001525~angiogenesis	13
+	GO:0051092~positive regulation of NF-kappaB transcription factor activity	7
+Prostate 3	V	283	E	442	p<2.2e-16
+	GO:0043067~regulation of programmed cell death	184
+	GO:0006350~transcription	133
+	GO:0005524~ATP binding	131
+	GO:0006796~phosphate metabolic process	105
+	GO:0007155~cell adhesion	81
+	GO:0022610~biological adhesion	81
+	GO:0004672~protein kinase activity	72
+	GO:0004674~protein serine/threonine kinase activity	49
+	GO:0001944~vasculature development	42
+	GO:0006917~induction of apoptosis	35
+	GO:0016337~cell-cell adhesion	31
+	GO:0001525~angiogenesis	24
+	GO:0043122~regulation of I-kappaB kinase/NF-kappaB cascade	23
+	GO:0032355~response to estradiol stimulus	10
